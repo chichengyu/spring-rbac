@@ -21,7 +21,7 @@
         <jjwt.version>0.9.1</jjwt.version>
         <mybatis-spring.version>1.3.2</mybatis-spring.version>
         <fastjson.version>1.2.62</fastjson.version>
-        <shiro-spring.version>1.4.1</shiro-spring.version>
+        <shiro-spring.version>1.7.1</shiro-spring.version>
         <jbcrypt.version>0.4</jbcrypt.version>
         <pagehelper-spring-boot-starter.version>1.2.12</pagehelper-spring-boot-starter.version>
         <thymeleaf-extras-shiro.version>2.0.0</thymeleaf-extras-shiro.version>
